@@ -1,0 +1,25 @@
+.header{
+   text-align: center;
+}
+.btn{
+    border-radius: 8px;
+    padding: 10px;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+}
+.image{
+    text-align: center;
+    margin: 20px 0;
+    background-color: rgb(87, 83, 83);
+}
+.button{
+    margin: 10px 0;
+}
+.section{
+    text-align: center;
+}
+.section1{
+    text-align: center;
+}
